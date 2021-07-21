@@ -8,3 +8,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daMaGerKa&layout=compact)
+
