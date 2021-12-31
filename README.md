@@ -1,4 +1,4 @@
-[comment]: ![Header](https://github.com/daMaGerKa/daMaGerKa/blob/main/assets/daMaGer.png)
+[comment]: ![Header](https://github.com/aygumov_g/aygumov_g/blob/main/assets/aygumov_g.png)
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java)
@@ -7,5 +7,5 @@
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daMaGerKa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aygumov_g&layout=compact)
 
